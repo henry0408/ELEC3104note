@@ -5,5 +5,6 @@ This note is a personal collation of the knowledge of ELEC3104 course, limited b
 3. 此笔记禁止一切商业用途，仅用作大家对于知识点的复习用，侵删
 All commercial use of these notes is prohibited and it is just for people to review only.
 
+此pdf文档可以从下方的链接下载：
 The notebook could be downloaded from:
 https://drive.google.com/file/d/128H7QkeX70O9wtc2Zp47vLphP8GftdCi/view?usp=sharing
