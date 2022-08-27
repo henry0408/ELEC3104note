@@ -12,4 +12,4 @@ https://drive.google.com/file/d/128H7QkeX70O9wtc2Zp47vLphP8GftdCi/view?usp=shari
 
 样式：
 
-![images](https://github.com/henry0408/screenshots/blob/d9b76dcb43c07e1f7a784f399d649222a8f33f40/3104screenshot.png)
+![3104screenshot](https://user-images.githubusercontent.com/58734009/187032340-68e5c66c-b97e-4fff-9798-366ebee3dd3f.png)
